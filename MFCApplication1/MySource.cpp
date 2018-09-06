@@ -2,6 +2,7 @@
 #include "MySource.h"
 #include <vector>
 //git change 1?
+//v7 update 17:49, 06.09.2018
 
 MySource::MySource()
 {
@@ -15,7 +16,7 @@ MySource::~MySource()
 CString MySource::pingOutput()
 {
 	CString output=_T("### Pingresults: ###\r\n");
-	addToDebugLog("In pingOutput()");
+	addToDebugLog("In pingOutput() ihr bitches");
 	
 	for (const auto &element : m_pingResults) {
 		output += element + _T("\r\n");
