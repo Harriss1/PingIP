@@ -5,6 +5,7 @@
 //v7 update 17:49, 06.09.2018
 //v7 from browserchange 17:53, 06.09.2018
 
+//eine versions update nachricht und ein logfile für jedes mal das ich dieses programm aufrufe wäre gut.
 
 MySource::MySource()
 {

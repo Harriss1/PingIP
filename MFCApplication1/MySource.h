@@ -38,7 +38,8 @@ public:
 		pingExec();
 		pingStoreRaw();
 	}
-	CString pingOutput(); //this is for the textfield in the MFC dialog, maybe multiline
+	CString pingOutput();
+		//this is for the textfield in the MFC dialog, maybe multiline
 		//pingOutput is the place where I could put in debug messages at the moment, later on I want a sepearte debug msg window
 private:
 	void pingExec();

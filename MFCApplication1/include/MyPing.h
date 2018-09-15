@@ -1,6 +1,7 @@
 #pragma once
 #ifndef MYPING_H
 #define MYPING_H
+//#include <cstring>
 #include <string>
 #include <boost/asio/io_context.hpp>
 #include <vector>

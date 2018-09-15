@@ -1,4 +1,5 @@
 #include "stdafx.h"
+#include <cstring>
 #include "PingSource.h"
 #include <boost/lexical_cast.hpp>
 #include <math.h>
